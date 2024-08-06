@@ -1,5 +1,6 @@
-## meu nome é maria 
+## Meu nome é Maria! 
 ## #vivalavida 
+## Meu signo é Aquario
 
 <!--
 **xXDuda/xXDuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
